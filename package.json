@@ -10,7 +10,7 @@
     "test": "npx jest"
   },
   "files": ["lib"],
-  "repository": "https://github.com/sagemathinc/ansi-to-react",
+  "repository": "https://github.com/codedownio/ansi-to-react",
   "keywords": ["ansi", "react"],
   "publishConfig": {
     "access": "public"
